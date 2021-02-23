@@ -1,0 +1,10 @@
+body {
+  font-size: 10px;
+  background: rgb(149, 194, 215);
+  background: rgba(149, 194, 215, 0.8);
+}
+
+h1 {
+  font-size: 35px;
+  color: red;
+}
